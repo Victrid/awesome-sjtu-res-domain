@@ -1,0 +1,12 @@
+Name, Domain, Type, jAccount enabled
+ACM Digital Library, dl.acm.org, domain, True
+American Chemical Society e-journal, pubs.acs.org, domain, True
+De Gruyter eBooks, degruyter.com, domain-suffix, True
+Elsevier, elsevier.com, domain-suffix, True
+Elsevier articles, sciencedirect.com, domain-suffix, True
+Springer, springer.com, domain-suffix, True
+Science Online, sciencemag.org, domain-suffix, True
+Nature, nature.com, domain-suffix, False
+Nature access, springernature.com, domain-suffix, True
+Cambridge, cambridge.org, domain-suffix, False
+IEEE, ieee.org, domain-suffix, True
